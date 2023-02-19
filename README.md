@@ -7,11 +7,11 @@ This repo contains the nessesary code and instructions to participate in the cou
 
 ### Day 1
 - Introduction to Machine Learning and Data Exploration
-- Basics of Regression and Classification
+- Basics of unsupervised Learning i.e. Dimensionality Reduction, Clustering and alike
 
 ### Day 2
-- Random Forests
-- Uncertainty
+- BAsics of supervised learning i.e. regression using Linear regression and cool things like Random Forests
+- Uncertainty and simple metrics
 
 ### Day 3
 - Advanced Testing and making your models fail in a constructive manner
