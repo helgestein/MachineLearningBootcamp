@@ -44,14 +44,14 @@ Helge
 
 I recommend to install the anaconda pyython distribution for this and the run 
 
-'''bash
+```bash
 pip install -r requirements_pip.txt
-'''
+```
 
 or 
 
-'''bash
+```bash
 conda create --name myenv --file requirements.txt
-'''
+```
 
 to install all the nessesary things!
