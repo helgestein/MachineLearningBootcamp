@@ -40,8 +40,18 @@ Participants will be provided with access to Jupyter notebooks, datasets, and ot
 
 Helge
 
-## Contact
+## Installation
 
-If you have any questions or concerns about the bootcamp, please don't hesitate to contact me
+I recommend to install the anaconda pyython distribution for this and the run 
 
-We look forward to seeing you at the Machine Learning Bootcamp 2023!
+'''bash
+pip install -r requirements_pip.txt
+'''
+
+or 
+
+'''bash
+conda create --name myenv --file requirements.txt
+'''
+
+to install all the nessesary things!
